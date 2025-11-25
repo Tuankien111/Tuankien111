@@ -1,56 +1,58 @@
+✨ Hi, I’m Tuki — Full-Stack Developer
+🚀 Graduate Student @ UEH • Full-Stack | DevOps Enthusiast | Clean Code Explorer
+🧑‍💻 About Me
 
+Hi 👋! I’m a passionate Full-Stack Developer who loves building clean, scalable, and maintainable software.
+I specialize in:
 
-<!--
-**Tuankien111/Tuankien111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Backend: PHP, Laravel
 
-Here are some ideas to get you started:
+🎨 Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛢️ Databases: MySQL, PostgreSQL
 
+🐳 DevOps: Docker, Docker Compose, CI/CD with Jenkins
 
--->
-<h2 align="left">Hi 👋! My name is Tuki and I'm a graduate student from UEH </h2>
+🧠 Software Craftsmanship: Design Patterns, Code Optimization, Best Practices
 
-###
+I enjoy exploring new technologies, improving code quality, and automating workflows.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-</div>
+🚀 Tech Stack
+<div align="center">
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" height="45" />
+Backend
+<img src="https://skillicons.dev/icons?i=php,laravel" height="45" />
+Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" />
+DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,jenkins,github,git" height="45" />
+Other Skills
+<img src="https://skillicons.dev/icons?i=cs,python,linux,azure" height="45" /> </div>
+🏆 What I Do
 
-###
+✔️ Build full-stack applications from front to back
 
-<div align="left">
-  <a href="lamminhtuankien@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lmtkien/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+✔️ Design efficient REST APIs with Laravel
 
-###
+✔️ Optimize UI/UX with modern frontend tooling
+
+✔️ Structure scalable architectures using clean coding principles
+
+✔️ Containerize environments with Docker
+
+✔️ Automate workflows & CI/CD pipelines (Jenkins)
+
+✔️ Improve performance & maintainability using design patterns
+
+📫 Connect With Me
+<div align="center"> <a href="mailto:lamminhtuankien@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" /> </a> <a href="https://www.linkedin.com/in/lmtkien/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /> </a> </div>
+🌟 Fun Facts About Me
+
+🔍 I love exploring design patterns and system architecture
+
+🛠️ I enjoy optimizing code until it becomes beautifully clean
+
+📦 I break things with Docker… then fix them
+
+⚡ I believe automation is the future of productivity
