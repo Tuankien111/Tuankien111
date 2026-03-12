@@ -53,6 +53,4 @@ Other Skills
 
 🛠️ I enjoy optimizing code until it becomes beautifully clean
 
-📦 I break things with Docker… then fix them
-
 ⚡ I believe automation is the future of productivity
